@@ -13,4 +13,5 @@ dependencies = [
     "numexpr>=2.14.1",
     "ollama>=0.6.1",
     "wikipedia>=1.4.0",
+    "yfinance>=1.1.0",
 ]
