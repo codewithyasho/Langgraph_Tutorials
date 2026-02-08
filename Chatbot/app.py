@@ -42,6 +42,7 @@ def get_thread_preview(thread_id):
     except:
         return f"Chat {str(thread_id)[:8]}..."
 
+st.title('Langgraph Chatbot')
 
 if 'message_history' not in st.session_state:
     st.session_state['message_history'] = []
