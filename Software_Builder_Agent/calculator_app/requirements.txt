@@ -1,0 +1,2 @@
+# This calculator app uses only built-in Python modules
+# No external dependencies required
